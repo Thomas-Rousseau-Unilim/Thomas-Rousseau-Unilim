@@ -3,9 +3,11 @@
 
 Student in the departement of informatic in IUT of Limusin in Limoges, France🇫🇷
 
-💖​ **My passion :**
+💖​ **About Me :**
 
+- Love TCGs
 - I play minecraft for a living.
+- Interested in Voxel optimisation
 
 🛠 **My tech stack :**
 
