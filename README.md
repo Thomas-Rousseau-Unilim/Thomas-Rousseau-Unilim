@@ -1,5 +1,5 @@
 
-👋 **Hey, I'm Thomas Rousseau**
+👋 **Hey, I'm Thomas**
 
 Student in the departement of informatic in IUT of Limusin in Limoges, France🇫🇷
 
