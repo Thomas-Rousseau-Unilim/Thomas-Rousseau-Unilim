@@ -1,5 +1,7 @@
-<--
-**iblasquez/iblasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
-Hey, I'm Thomas Rousseau
-IUT du limousin
+
+👋 Hey, I'm Thomas Rousseau
+Student in the departement of informatic in IUT of Limusin in Limoges, France🇫🇷
+
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+Ab
