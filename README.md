@@ -7,4 +7,6 @@ Student in the departement of informatic in IUT of Limusin in Limoges, France�
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
-Ab
+💖​ **My passion :**
+
+I play minecraft for a living
