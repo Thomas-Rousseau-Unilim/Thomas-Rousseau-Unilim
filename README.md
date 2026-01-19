@@ -5,6 +5,6 @@ Student in the departement of informatic in IUT of Limusin in Limoges, FranceðŸ‡
 
 ðŸ›  **My tech stack :**
 
-[![My Skills](https://skillicons.dev/icons?i=py,htlm,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 Ab
